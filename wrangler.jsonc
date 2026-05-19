@@ -7,5 +7,10 @@
 
   "assets": {
     "directory": "./dist/client"
+  },
+  "vars": {
+    "VITE_POCKETBASE_URL": "http://127.0.0.1:8090",
+    "GOOGLE_SHEETS_WEBHOOK_URL": "https://script.google.com/macros/s/AKfycbzaYAL4LWqq0bNEa38y85qAqMUAsbxW-A4M7m6c3cl44sxulnBk5PYBmI2xDhrdpm5T/exec",
+    "GEMINI_API_KEY": "AIzaSyDCL36MlejgfdVAvKK56BCEbMvtIsEh-6o"
   }
 }
