@@ -38,3 +38,6 @@ dist-ssr
 # PocketBase
 pb_data/
 pocketbase.exe
+
+# Vercel
+.vercel/
